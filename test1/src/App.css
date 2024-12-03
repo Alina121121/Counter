@@ -1,0 +1,62 @@
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+.count h1 {
+  margin-left: 800px;
+  font-size: 60px;
+  margin-top: -300px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.count2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.countNum {
+  color: black;
+  margin-left: 220px;
+  font-size: 60px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.countAll {
+  display: flex;
+  justify-content: center;  
+  gap: 5px;                 
+  margin-top: 20px;
+
+}
+.countPlus button{
+  padding: 15px 20px;
+  margin-left: 230px;
+  border-radius: 50%;
+  background-color: rgb(36, 36, 92);
+  color: white;
+  font-size: 20px;
+}
+.countMinus button{
+  padding: 15px 22px;
+  margin-left: 20px;
+  border-radius: 50%;
+  background-color: rgb(36, 36, 92);
+  color: white;
+  font-size: 20px;
+}
+.countZero button{
+  padding: 15px 20px; 
+  margin-left: 20px;
+  border-radius: 50%;
+  background-color: rgb(36, 36, 92);
+  color: white;
+  font-size: 20px;
+}
+
+ 
